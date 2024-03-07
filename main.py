@@ -8,7 +8,7 @@ import os
 from openai import OpenAI
 
 client = OpenAI(
-    api_key='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'
+    api_key='insert api key'
 )
 
 system_message = ("You are going to act as a helpful dance instructor. You must give clear and simple feedback "
@@ -663,20 +663,3 @@ def funct_screen(df, sm):
 
 if __name__ == "__main__":
     start(data_file, system_message)
-
-# C:\Users\Louis Sloot\Downloads\flag1.MOV
-# C:\Users\Louis Sloot\Downloads\flag23.MOV
-# C:\Users\Louis Sloot\Downloads\flag4.MOV
-# C:\Users\Louis Sloot\Downloads\flag5.MOV
-# C:\Users\Louis Sloot\Downloads\flag6.MOV
-# C:\Users\Louis Sloot\Downloads\correctslow.MOV
-# C:\Users\Louis Sloot\Downloads\correctfast.MOV
-# G:\My Drive\CS HL IA\IMG_2806.MOV
-
-# C:\Users\Louis Sloot\OneDrive\Pictures\neutral.PNG
-
-
-# C:\Users\s706313\Downloads\istockphoto-1411466414-640_adpp_is.mp4
-# C:\Users\s706313\Downloads\depositphotos_23732193-stock-photo-young-casual-man-full-body.jpg
-# r"C:\Users\s706313\PycharmProjects\pythonProject\Data"
-# r"C:\Users\Louis Sloot\Dropbox\PycharmProjects\pythonProject\Data.txt"
