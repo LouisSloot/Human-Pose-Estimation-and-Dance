@@ -1,1 +1,1 @@
-This is my Computer Sceince HL Internal Assessment.
+This is my Computer Science HL Internal Assessment.
